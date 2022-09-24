@@ -8,7 +8,7 @@ zu ideen und server und arten von programmier arten.
 Links
 
 https://github.com für code und ander dinge beim coding Account erstellen muss an aber.
-htttps://unity.com eine anwendung für games also wenn du games programmieren willst.
+https://unity.com eine anwendung für games also wenn du games programmieren willst.
 https://code.visualstudio.com/download zum programmieren also als code editor
 https://www.jetbrains.com/de-de/idea/download/ am besten für JAVA aber auch ein guter Code Editor
 https://www.jetbrains.com/de-de/rider/download/#section=windows für C# braucm man z.B. in Unity denn dort Programmiert man mit C#
